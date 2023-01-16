@@ -20,7 +20,7 @@ A simple script to download documents from PTIT online library (dlib.ptit.edu.vn
 ## Legal
 
 This project does **NOT** attempt to violate Vietnam copyright law. If you have
-a [PTIT online library](http://dlib.ptit.edu.vn) account, you can already access and download anydocument via the use of a web browser's developer tool. All this script does is automating the process to save time.
+a [PTIT online library](http://dlib.ptit.edu.vn) account, you can already access and download any document via the use of a web browser's developer tool. All this script does is automating the process to save time.
 
 ## License
 
