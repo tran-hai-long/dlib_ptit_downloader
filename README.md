@@ -11,10 +11,9 @@ A simple script to download documents from PTIT online library (dlib.ptit.edu.vn
 1. Install Python 3.10 or higher.
 2. Download `script.py` and `requirements.txt`.
 3. Open CMD/Terminal and run ```pip install -r requirements.txt``` to install necessary packages for the script.
-4. On your web browser, log in to [PTIT online library](http://dlib.ptit.edu.vn) with your own account and open the document you want to
-   download.
+4. On your web browser, log in to [PTIT online library](http://dlib.ptit.edu.vn) with your own account and open the document you want to download.
 5. Run either ```python3 script.py``` or ```python script.py``` depending on your OS. The script will ask for the document URL.
-6. Open your web browser, copy the document URL, paste it to the script, then type in the number of pages.
+6. Copy the document URL on the browser and paste it to the script.
 7. Sit back and relax while the script do its magic.
 
 ## Legal
