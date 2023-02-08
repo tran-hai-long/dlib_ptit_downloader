@@ -1,4 +1,4 @@
-# dlib-ptit-downloader
+# dlib_ptit_downloader
 
 A simple script to download documents from PTIT online library (dlib.ptit.edu.vn).
 
