@@ -4,7 +4,7 @@ import requests
 
 # ask user to input url and number of pages
 url = input("Please input the document URL: ")
-if url[:51] == "http://dlib.ptit.edu.vn/flowpaper/services/view.php":
+if url[:34] == "http://dlib.ptit.edu.vn/flowpaper/":
     # extract document ID and subfolder ID from pasted url
     subID = re.search(r"subfolder=(.+)&doc=", url).group(1)
     docID = re.search(r"doc=(.+)&bitsid=", url).group(1)
